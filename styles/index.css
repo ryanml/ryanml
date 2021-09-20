@@ -1,0 +1,14 @@
+.bounce {
+  background: url('img/venus.jpg');
+  display: flex;
+  position: fixed;
+  width: 64px;
+  height: 64px;
+  color: #fff;
+}
+.copy {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
