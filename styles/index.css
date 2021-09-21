@@ -1,5 +1,5 @@
 .bounce {
-  background: url('img/venus.jpg');
+  background: url('../img/venus.jpg');
   display: flex;
   position: fixed;
   width: 64px;
